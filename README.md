@@ -1,22 +1,25 @@
-### Hi there 👋
+### Hello, I'm Manuel 👋
+
 ---
 
-I'm an Industrial Engineer and Data Scientist working in Peru.
+I'm an Industrial Engineer and Data Scientist based in Peru. Passionate about leveraging data to drive insights and innovation.
 
-Contact me:
+### Connect with Me
 
-<a href='https://www.linkedin.com/in/manuelrodval/' target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+You can find me on LinkedIn:
 
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/manuelrodval/)
 
-Or you just can hit this in your console or terminal to connect with me.
- 
+Or connect directly from your terminal:
+
 ```bash
 npx manuelrodval
 ```
 
-**BIO**
+## Skills
 
-- 📠 I'm currently working at Telefonica
-- 🔧 `.py` `.sql` `.js` `.html` `.css` 
-- ✏️ Currently learning all about MLOPS and Next.js.
-- 🎹 I'm also a pianist!
+- Python 🐍
+- Rust 🦀
+- JavaScript 💻
+- SQL 📊
+
