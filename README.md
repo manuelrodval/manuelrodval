@@ -2,7 +2,7 @@
 
 ---
 
-I'm an Industrial Engineer and Data Scientist based in Peru. Passionate about leveraging data to drive insights and innovation.
+I'm an Industrial Engineer and Software Developer based in Peru.
 
 ### Connect with Me
 
